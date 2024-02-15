@@ -1,0 +1,19 @@
+.card-img-top {
+    max-height: 300px;
+    object-fit: cover;
+  }
+  
+  .card-header {
+    font-size: 2rem;
+  }
+  
+  .card {
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  }
+
+  .custom-mugshot {
+    padding: 2rem;
+    object-fit: contain; 
+    object-position: center; 
+  }
+  
