@@ -16,9 +16,11 @@ The site should look "polished" and "professional"; that means: mobile-first des
 
 ## Installation
 
-Using React commands to start and build the app. 
+Using React commands to start and build the app, each time after a change is made. Use github page to deploy the app. 
+
 npm start 
 npm run build 
+npm run deploy 
 
 ## Usage 
 
