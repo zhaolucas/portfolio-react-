@@ -22,7 +22,7 @@ function Contact() {
       console.log(formData);
       setShowAlert(true);
       setTimeout(() => setShowAlert(false), 3000);
-      setFormData({ name: '', email: '', message: '' }); // Reset form
+      setFormData({ name: '', email: '', message: '' }); 
     };
   
     return (
