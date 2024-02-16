@@ -1,0 +1,38 @@
+/* Project.module.css */
+.cardContainer {
+    transition: transform 0.2s; /* Smooth transition for hover effect */
+    margin: 1rem; /* Adjust spacing around cards */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+    border-radius: 0.5rem; /* Rounded corners for a modern look */
+  }
+  
+  .cardContainer:hover {
+    transform: translateY(-5px); /* Slight lift effect on hover */
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2); /* Enhanced shadow on hover */
+  }
+  
+  .cardImage {
+    height: 200px;
+    object-fit: cover;
+    border-top-left-radius: 0.5rem; /* Align with card's rounded corners */
+    border-top-right-radius: 0.5rem;
+  }
+  
+  .cardBody {
+    padding: 1rem; /* Spacing inside the card */
+  }
+  
+  .cardTitle {
+    font-size: 1.2rem;
+    margin-bottom: 0.5rem;
+  }
+  
+  .cardLink {
+    text-decoration: none;
+    color: #007bff; /* Bootstrap primary color */
+  }
+  
+  .cardLink:hover {
+    text-decoration: underline; /* Simple hover effect for links */
+  }
+  

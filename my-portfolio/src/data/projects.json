@@ -1,0 +1,47 @@
+[
+    {
+      "id": 1,
+      "title": "Personal Portfolio in HTML/ CSS",
+      "deployedLink": "https://zhaolucas.github.io/personal-portfolio/",
+      "repoLink": "https://github.com/zhaolucas/personal-portfolio",
+      "image": "/images/project1.png"
+    },
+    {
+      "id": 2,
+      "title": "Personal Portfolio in Bootatrap",
+      "deployedLink": "https://zhaolucas.github.io/Bootstrap-Portfolio/",
+      "repoLink": "https://github.com/zhaolucas/Bootstrap-Portfolio",
+      "image": "/images/project2.jpeg"
+    },
+    {
+      "id": 3,
+      "title": "Password Generator in JS",
+      "deployedLink": "https://zhaolucas.github.io/password-generator/",
+      "repoLink": "https://github.com/zhaolucas/password-generator",
+      "image": "/images/project3.png"
+    },
+    {
+      "id": 4,
+      "title": "Daily Planner in jQuery",
+      "deployedLink": "https://zhaolucas.github.io/dailyplanner/",
+      "repoLink": "https://github.com/zhaolucas/dailyplanner",
+      "image": "/images/project4.gif"
+    },
+    {
+      "id": 5,
+      "title": "TravelEx with APIs",
+      "deployedLink": "https://zhaolucas.github.io/travelEx/",
+      "repoLink": "https://github.com/zhaolucas/travelEx",
+      "image": "/images/project5.png"
+    },
+    {
+      "id": 6,
+      "title": "Code Quiz with APIs",
+      "deployedLink": "https://zhaolucas.github.io/JS-code-quiz/pr",
+      "repoLink": "https://github.com/zhaolucas/JS-code-quiz",
+      "image": "/images/project6.gif"
+    }
+  ]
+  
+
+  
